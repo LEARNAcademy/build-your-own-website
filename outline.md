@@ -214,6 +214,7 @@ What is coding? Coding is using computer language to describe a set of instructi
 - There are many options that Bootstrap provides for cards. A card is a term used to describe a specific component in web design that looks like a small section of text information with or without an image.
 - Let's use the one with just an image and text (no button) because that looks more similar to our wireframe.
 - Copy and paste it three times. Ensure the `div` tags are correctly aligned. Also this is a good time to check on your indentation.
+- Add image to each card: using the `img` tag and the `src` attribute.
 - Notice there's more spacing in our paragraph text in the card section than is displayed in the Bootstrap website. This is because our earlier styling for our `p` is being broadly applied to all `p` tags so we should apply our `p` styling more specifically using a class so that it does not conflict with styles that Bootstrap has provided.
 ```css
   .my-paragraph {
