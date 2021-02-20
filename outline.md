@@ -13,7 +13,7 @@ Some requirements they'll be asked to have for the workshop:
 - A computer: Windows (8 - 10) or Mac  
 - [Chrome Web Browser](https://www.google.com/chrome/)
 - A stable internet connection  
-- A code editor, we recommend VSCode: [https://code.visualstudio.com/](https://code.visualstudio.com/ "https://code.visualstudio.com/")
+- A code editor, we recommend VSCode: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ## Code of Conduct
 
